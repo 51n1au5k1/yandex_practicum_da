@@ -2,9 +2,12 @@
 ***
 Анализ поведения пользователей в целях выделения основных сценариев использования приложения с целью повышение монетизации путем увелечения пользовательской вовлеченности.
 
+[Дашборд tableau][1]
+
 Используемые инструменты:
 - *EDA*
 - *ML: матрица расстояний (linkage), дендрограмма, кластеризации на основании алгоритма K-Means*
 - *проверка статистических гипотиз*
 - *библиотеки: pandas, numpy, seaborn, datetime, matplotlib, sklearn, scipy, math, os*
 
+[1]:https://public.tableau.com/app/profile/andrei.siniauski/viz/mob_app_unnecessary_things/Dashboard1
